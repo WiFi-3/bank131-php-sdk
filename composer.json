@@ -40,5 +40,6 @@
       "Bank131\\SDK\\Tests\\": "tests/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "version": "1.0"
 }
